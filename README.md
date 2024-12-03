@@ -1,4 +1,5 @@
 Pattern Formation: Reaction-Diffusion Simulations
+
 This project simulates reaction-diffusion systems using the Grey-Scott model to demonstrate Turing instability. The system generates patterns, such as animal fur patterns, using numerical methods like the Explicit method and Crank-Nicolson method.
 
 Requirements
