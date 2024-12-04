@@ -13,6 +13,7 @@
 .matplotlib/
 .vscode/
 Envs/
+PatternFormation/
 
 git rm -r --cached .
 
