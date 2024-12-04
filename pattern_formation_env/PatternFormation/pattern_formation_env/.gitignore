@@ -1,0 +1,19 @@
+*.pkl
+*.ipynb_checkpoints
+*.csv
+.anaconda/
+.conda/
+.continuum/
+.git-for-windows-updater
+.gitconfig
+.idlerc/
+.ipython/
+.jupyter/
+.lesshst
+.matplotlib/
+.vscode/
+Envs/
+
+git rm -r --cached .
+
+

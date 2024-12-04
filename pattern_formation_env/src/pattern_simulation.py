@@ -3,7 +3,8 @@ matplotlib.use('Agg')  # Use a non-GUI backend
 
 import numpy as np
 import matplotlib.pyplot as plt
-from .reaction_diffusion import finite_difference_step, f, g
+from src.reaction_diffusion import finite_difference_step, f, g
+
 
 def main():
     # Parameters

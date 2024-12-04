@@ -1,0 +1,42 @@
+[33mcommit 2fd7446cdf66085f6f7fa759bc326b708dabfe43[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: niv-3 <lightniv25@gmail.com>
+Date:   Wed Dec 4 01:54:53 2024 +0700
+
+    Update README.md
+
+[33mcommit 8cec8887f6f6e390542875fc29bd3537ebf6c13f[m
+Author: niv-3 <lightniv25@gmail.com>
+Date:   Wed Dec 4 00:20:45 2024 +0700
+
+    Update README.md
+
+[33mcommit 2580970b9c0e388df88252324f7ed908049e4417[m
+Author: niv-3 <lightniv25@gmail.com>
+Date:   Wed Dec 4 00:19:45 2024 +0700
+
+    Update README.md
+
+[33mcommit cd704b0f192758ef75d6263287516f31715d1945[m
+Author: niv-3 <lightniv25@gmail.com>
+Date:   Tue Dec 3 22:45:56 2024 +0700
+
+    Resolved merge conflicts
+
+[33mcommit 6c77abb811d37f03b6fe0685349e9e8aee6e2513[m
+Merge: 718f0a9 4ac4057
+Author: niv-3 <lightniv25@gmail.com>
+Date:   Tue Dec 3 22:26:50 2024 +0700
+
+    Merge branch 'main' of https://github.com/niv-3/PatternFormation
+
+[33mcommit 718f0a9a1f39f8f46c1cf14081bd41710ab5a652[m
+Author: niv-3 <lightniv25@gmail.com>
+Date:   Tue Dec 3 22:21:39 2024 +0700
+
+    Add .gitignore to stop tracking unnecessary files
+
+[33mcommit 4ac4057ca7bb20be116712c4e4786be9115187d3[m
+Author: niv-3 <lightniv25@gmail.com>
+Date:   Tue Dec 3 21:19:37 2024 +0700
+
+    Initial commit
