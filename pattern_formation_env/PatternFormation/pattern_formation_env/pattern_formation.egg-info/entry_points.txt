@@ -1,2 +1,0 @@
-[console_scripts]
-run-simulation = src.pattern_simulation:main
