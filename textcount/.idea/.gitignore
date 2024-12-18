@@ -1,0 +1,74 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Ignore specific files and folders
+.anaconda/
+.bash_history
+.conda/
+.condarc
+.continuum/
+.git-for-windows-updater
+.gitconfig
+.idlerc/
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.lesshst
+.matplotlib/
+.vscode/
+3D Objects/
+AppData/
+Burger/
+Contacts/
+DJANGO FILES/
+Datascience/
+Datascince/
+De-music
+Desktop/
+Documents/
+Downloads/
+Envs/
+Favorites/
+Health/
+HeartWise/
+Heart_disease_cleveland.csv
+Helloworld.ipynb
+Links/
+Login interface.py
+MicrosoftEdgeBackups/
+Music/
+NTUSER.DAT*
+OneDrive/
+Pictures/
+PycharmProjects/
+Python Data Science & Machine Learning Projects.ipynb
+README.md
+Saved Games/
+Searches/
+Untitled.ipynb
+Untitled2.ipynb
+Videos/
+WPS Cloud Files/
+_netrc
+anaconda3/
+app.py
+heart_disease_model*
+housing.csv
+ih_model.pkl
+my tutorials/
+my-music/
+my-music-predict.joblib
+myapp/
+myproj/
+myproject/
+mysqladmin
+mystore/
+niv/
+ntuser.dat.LOG*
+pattern_formation_env/
+phoneshop/
+practice.py
+storefront/
+textcount/
+transactions (1).xlsx
+us_death.csv
